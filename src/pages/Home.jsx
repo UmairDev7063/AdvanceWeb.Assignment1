@@ -6,7 +6,7 @@ const Home = () => {
     <>
       <header className="header">
         <div className="header-content">
-          <h1 className="lg-heading text-light main-heading">World Travel and Tours</h1>
+          <h1 className="lg-heading text-light main-heading">World Travels and Tours</h1>
           <p className="text-light">
             World Travel and Tours, experience the greateness, it's the best gift given by nature
           </p>
